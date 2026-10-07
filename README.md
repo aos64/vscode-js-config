@@ -1,4 +1,4 @@
-# vVisual JS Get
+# Visual JS Get
 A Powershell script that will setup a Visual Studio Code + Node.JS development environment for unprivelliged users.
 
 **Instructions**
